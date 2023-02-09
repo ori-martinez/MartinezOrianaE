@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @MartinezOrianaE
-- 👀 I’m interested in Programming Front End
-- 🌱 I’m currently learning all i can
+### ✨ Details about Me ✨
+
+- 👋 Hi, I’m Oriana (@ori-martinez)
+- 👩‍💻 I’m interested in Front End programming
+- 🌱 Currently, I learn everything I can
 
 <!---
 MartinezOrianaE/MartinezOrianaE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
